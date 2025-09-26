@@ -1,0 +1,53 @@
+2024-11-22 11:40:32,148 - INFO - User selected API keys: ['ZH', 'EN', 'X']
+2024-11-22 11:40:32,150 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/url {'url': 'https://www.simcompanies.com/signin/'}
+2024-11-22 11:40:48,936 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/url HTTP/11" 200 0
+2024-11-22 11:40:48,937 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:40:48,938 - DEBUG - Finished Request
+2024-11-22 11:40:53,943 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/url {'url': 'https://www.simcompanies.com/signin/'}
+2024-11-22 11:40:55,434 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/url HTTP/11" 200 0
+2024-11-22 11:40:55,435 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:40:55,435 - DEBUG - Finished Request
+2024-11-22 11:41:00,440 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/element {'using': 'xpath', 'value': '//input[@name="email"]'}
+2024-11-22 11:41:00,459 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/element HTTP/11" 200 0
+2024-11-22 11:41:00,459 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.73"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:41:00,459 - DEBUG - Finished Request
+2024-11-22 11:41:00,460 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/element {'using': 'xpath', 'value': '//input[@name="password"]'}
+2024-11-22 11:41:00,470 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/element HTTP/11" 200 0
+2024-11-22 11:41:00,470 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.75"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:41:00,470 - DEBUG - Finished Request
+2024-11-22 11:41:00,470 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/element/f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.73/value {'text': 'dualvectorfoil.42@gmail.com', 'value': ['d', 'u', 'a', 'l', 'v', 'e', 'c', 't', 'o', 'r', 'f', 'o', 'i', 'l', '.', '4', '2', '@', 'g', 'm', 'a', 'i', 'l', '.', 'c', 'o', 'm']}
+2024-11-22 11:41:00,616 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/element/f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.73/value HTTP/11" 200 0
+2024-11-22 11:41:00,616 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:41:00,616 - DEBUG - Finished Request
+2024-11-22 11:41:00,616 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/element/f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.75/value {'text': 'rocjun-4sizxo-wiqMyc', 'value': ['r', 'o', 'c', 'j', 'u', 'n', '-', '4', 's', 'i', 'z', 'x', 'o', '-', 'w', 'i', 'q', 'M', 'y', 'c']}
+2024-11-22 11:41:00,655 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/element/f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.75/value HTTP/11" 200 0
+2024-11-22 11:41:00,655 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:41:00,655 - DEBUG - Finished Request
+2024-11-22 11:41:00,655 - DEBUG - POST http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/element/f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.75/value {'text': '\ue006', 'value': ['\ue006']}
+2024-11-22 11:41:00,674 - DEBUG - http://localhost:64371 "POST /session/64ddfe9c3f8505f56c6853952a911fff/element/f.70AC4BC7E6328734F19D6EE89864B7F1.d.74B53BAB98C316415F6C78789742FB57.e.75/value HTTP/11" 200 0
+2024-11-22 11:41:00,674 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:41:00,674 - DEBUG - Finished Request
+2024-11-22 11:41:10,679 - DEBUG - GET http://localhost:64371/session/64ddfe9c3f8505f56c6853952a911fff/cookie {}
+2024-11-22 11:41:10,691 - DEBUG - http://localhost:64371 "GET /session/64ddfe9c3f8505f56c6853952a911fff/cookie HTTP/11" 200 0
+2024-11-22 11:41:10,692 - DEBUG - Remote response: status=200 | data={"value":[{"domain":".simcompanies.com","expiry":1766796063,"httpOnly":false,"name":"_ga","path":"/","sameSite":"Lax","secure":false,"value":"GA1.2.1748762339.1732236040"},{"domain":"www.simcompanies.com","expiry":1733445665,"httpOnly":true,"name":"sessionid","path":"/","sameSite":"Lax","secure":false,"value":".eJxVjsFuwkAMRP9lrw2R7XWyu7nBN3CPnN2FVA0BJeQAVf-9JiDRXix53tgz36aV5dq3y5yn9jOZxjAigvem-Es6iV95fODLILc8zeWDlVsduxf65-9l7tWcU05CdSWu8wmiD6CK40joHFTgKUNIuQ7oxR6g7hxEYPWneIhi2enTZ95ajQIBWVuYeD5dZLytIlMV0FVvsZ2yDKeVQWHWStdZu-gtbxA3RHuAhrEBLMk6Jv7QHeCdNch4XOSY9ejem59fvDJY8Q:1tEHjN:r2XsUs_LnBz0mk4oS78xPesUrxW0MxdNYyKa5L0P8Cs"},{"domain":".simcompanies.com","expiry":1766796063,"httpOnly":false,"name":"_ga_L9BF2VH0YN","path":"/","sameSite":"Lax","secure":false,"value":"GS1.1.1732236040.1.1.1732236063.0.0.0"},{"domain":".simcompanies.com","expiry":1732236100,"httpOnly":false,"name":"_gat_UA-71659254-1","path":"/","sameSite":"Lax","secure":false,"value":"1"},{"domain":".simcompanies.com","expiry":1732322463,"httpOnly":false,"name":"_gid","path":"/","sameSite":"Lax","secure":false,"value":"GA1.2.868681749.1732236040"},{"domain":".simcompanies.com","expiry":1766796063,"httpOnly":false,"name":"amplitude_id_a5727e4f9af6d8d768c9cfcbf0f98594simcompanies.com","path":"/","sameSite":"Lax","secure":false,"value":"eyJkZXZpY2VJZCI6IjAxZmJkZDVhLTI0ZDEtNDlmMy05MmM1LTJlNTdlMGZkNTFhZVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTczMjIzNjAzNzg0MSwibGFzdEV2ZW50VGltZSI6MTczMjIzNjA2Mzg3NywiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjB9"},{"domain":"www.simcompanies.com","expiry":1763685663,"httpOnly":false,"name":"csrftoken","path":"/","sameSite":"Lax","secure":false,"value":"xkdNPyTYKToIH4LgE57fTMGJyHNMfEOqRHH32SBjObD4Lv9SxH2lRIVrnbvjoybh"},{"domain":".simcompanies.com","expiry":1740012063,"httpOnly":false,"name":"_fbp","path":"/","sameSite":"Lax","secure":false,"value":"fb.1.1732236038531.662460316585881867"}]} | headers=HTTPHeaderDict({'Content-Length': '1948', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-11-22 11:41:10,692 - DEBUG - Finished Request
+2024-11-22 11:41:10,692 - DEBUG - Session acquired: {'_ga': 'GA1.2.1748762339.1732236040', 'sessionid': '.eJxVjsFuwkAMRP9lrw2R7XWyu7nBN3CPnN2FVA0BJeQAVf-9JiDRXix53tgz36aV5dq3y5yn9jOZxjAigvem-Es6iV95fODLILc8zeWDlVsduxf65-9l7tWcU05CdSWu8wmiD6CK40joHFTgKUNIuQ7oxR6g7hxEYPWneIhi2enTZ95ajQIBWVuYeD5dZLytIlMV0FVvsZ2yDKeVQWHWStdZu-gtbxA3RHuAhrEBLMk6Jv7QHeCdNch4XOSY9ejem59fvDJY8Q:1tEHjN:r2XsUs_LnBz0mk4oS78xPesUrxW0MxdNYyKa5L0P8Cs', '_ga_L9BF2VH0YN': 'GS1.1.1732236040.1.1.1732236063.0.0.0', '_gat_UA-71659254-1': '1', '_gid': 'GA1.2.868681749.1732236040', 'amplitude_id_a5727e4f9af6d8d768c9cfcbf0f98594simcompanies.com': 'eyJkZXZpY2VJZCI6IjAxZmJkZDVhLTI0ZDEtNDlmMy05MmM1LTJlNTdlMGZkNTFhZVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTczMjIzNjAzNzg0MSwibGFzdEV2ZW50VGltZSI6MTczMjIzNjA2Mzg3NywiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjB9', 'csrftoken': 'xkdNPyTYKToIH4LgE57fTMGJyHNMfEOqRHH32SBjObD4Lv9SxH2lRIVrnbvjoybh', '_fbp': 'fb.1.1732236038531.662460316585881867'}
+2024-11-22 11:41:10,692 - INFO - 开始循环
+2024-11-22 11:41:10,692 - INFO - Processing API key: ZH with URL: https://www.simcompanies.com/api/v2/chatroom/N/
+2024-11-22 11:41:10,696 - DEBUG - Starting new HTTPS connection (1): www.simcompanies.com:443
+2024-11-22 11:41:13,508 - DEBUG - https://www.simcompanies.com:443 "GET /api/v2/chatroom/N/ HTTP/11" 200 None
+2024-11-22 11:41:13,530 - DEBUG - Starting new HTTPS connection (1): www.simcompanies.com:443
+2024-11-22 11:41:15,314 - DEBUG - https://www.simcompanies.com:443 "GET /api/v2/chatroom/N/ HTTP/11" 200 None
+2024-11-22 11:41:15,323 - INFO - 数据检索成功: ZH
+2024-11-22 11:41:15,323 - INFO - Processing API key: EN with URL: https://www.simcompanies.com/api/v2/chatroom/G/
+2024-11-22 11:41:15,325 - DEBUG - Starting new HTTPS connection (1): www.simcompanies.com:443
+2024-11-22 11:41:17,446 - DEBUG - https://www.simcompanies.com:443 "GET /api/v2/chatroom/G/ HTTP/11" 200 None
+2024-11-22 11:41:17,450 - DEBUG - Starting new HTTPS connection (1): www.simcompanies.com:443
+2024-11-22 11:41:18,397 - DEBUG - https://www.simcompanies.com:443 "GET /api/v2/chatroom/G/ HTTP/11" 200 None
+2024-11-22 11:41:18,400 - INFO - 数据检索成功: EN
+2024-11-22 11:41:18,401 - INFO - Processing API key: X with URL: https://www.simcompanies.com/api/v2/chatroom/N/
+2024-11-22 11:41:18,402 - DEBUG - Starting new HTTPS connection (1): www.simcompanies.com:443
+2024-11-22 11:41:21,280 - DEBUG - https://www.simcompanies.com:443 "GET /api/v2/chatroom/N/ HTTP/11" 200 None
+2024-11-22 11:41:21,283 - DEBUG - Starting new HTTPS connection (1): www.simcompanies.com:443
+2024-11-22 11:41:23,327 - DEBUG - https://www.simcompanies.com:443 "GET /api/v2/chatroom/N/ HTTP/11" 200 None
+2024-11-22 11:41:23,334 - INFO - 数据检索成功: X

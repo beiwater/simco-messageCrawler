@@ -1,0 +1,81 @@
+2025-09-04 14:45:45,905 - INFO - 初始化 ./databases/test1_chat.db 跟踪表
+2025-09-04 14:45:45,906 - INFO - 数据库 ./databases/test1_chat.db 初始化成功
+2025-09-04 14:45:45,906 - INFO - 当前 ./databases/test1_chat.db 最后处理的消息ID: 0
+2025-09-04 14:45:45,906 - INFO - 发现 8 条新消息，正在导入到 ./databases/test1_chat.db...
+2025-09-04 14:45:45,907 - INFO - 成功向 ./databases/test1_chat.db 插入 8 条消息
+2025-09-04 14:45:45,908 - INFO - 更新 ./databases/test1_chat.db 最后处理ID为: 8
+2025-09-04 14:45:45,908 - INFO - 导入到 ./databases/test1_chat.db 完成
+2025-09-04 14:45:46,920 - INFO - 初始化 ./databases/test2_chat.db 跟踪表
+2025-09-04 14:45:46,921 - INFO - 数据库 ./databases/test2_chat.db 初始化成功
+2025-09-04 14:45:46,921 - INFO - 当前 ./databases/test2_chat.db 最后处理的消息ID: 0
+2025-09-04 14:45:46,922 - INFO - 发现 8 条新消息，正在导入到 ./databases/test2_chat.db...
+2025-09-04 14:45:46,922 - INFO - 成功向 ./databases/test2_chat.db 插入 8 条消息
+2025-09-04 14:45:46,923 - INFO - 更新 ./databases/test2_chat.db 最后处理ID为: 8
+2025-09-04 14:45:46,924 - INFO - 导入到 ./databases/test2_chat.db 完成
+2025-09-04 14:45:47,932 - INFO - 初始化 ./databases/test3_chat.db 跟踪表
+2025-09-04 14:45:47,933 - INFO - 数据库 ./databases/test3_chat.db 初始化成功
+2025-09-04 14:45:47,933 - INFO - 当前 ./databases/test3_chat.db 最后处理的消息ID: 0
+2025-09-04 14:45:47,933 - INFO - 发现 8 条新消息，正在导入到 ./databases/test3_chat.db...
+2025-09-04 14:45:47,934 - INFO - 成功向 ./databases/test3_chat.db 插入 8 条消息
+2025-09-04 14:45:47,935 - INFO - 更新 ./databases/test3_chat.db 最后处理ID为: 8
+2025-09-04 14:45:47,935 - INFO - 导入到 ./databases/test3_chat.db 完成
+2025-09-04 14:45:48,960 - INFO - 初始化 ./databases/test4_chat.db 跟踪表
+2025-09-04 14:45:48,960 - INFO - 数据库 ./databases/test4_chat.db 初始化成功
+2025-09-04 14:45:48,961 - INFO - 当前 ./databases/test4_chat.db 最后处理的消息ID: 0
+2025-09-04 14:45:48,961 - INFO - 发现 8 条新消息，正在导入到 ./databases/test4_chat.db...
+2025-09-04 14:45:48,962 - INFO - 成功向 ./databases/test4_chat.db 插入 8 条消息
+2025-09-04 14:45:48,963 - INFO - 更新 ./databases/test4_chat.db 最后处理ID为: 8
+2025-09-04 14:45:48,964 - INFO - 导入到 ./databases/test4_chat.db 完成
+2025-09-04 14:57:46,800 - INFO - 成功下载 ZH JSON数据
+2025-09-04 14:57:46,814 - INFO - 初始化 ./databases/ZH_chat.db 跟踪表
+2025-09-04 14:57:46,814 - INFO - 数据库 ./databases/ZH_chat.db 初始化成功
+2025-09-04 14:57:46,815 - INFO - 当前 ./databases/ZH_chat.db 最后处理的消息ID: 0
+2025-09-04 14:57:46,815 - INFO - 发现 30 条新消息，正在导入到 ./databases/ZH_chat.db...
+2025-09-04 14:57:46,817 - INFO - 成功向 ./databases/ZH_chat.db 插入 30 条消息
+2025-09-04 14:57:46,818 - INFO - 更新 ./databases/ZH_chat.db 最后处理ID为: 34191280
+2025-09-04 14:57:46,818 - INFO - 导入到 ./databases/ZH_chat.db 完成
+2025-09-04 14:57:46,818 - INFO - ZH_已保存
+2025-09-04 14:57:46,819 - INFO - 2025-09-04 14:57:46
+2025-09-04 14:57:48,248 - INFO - 成功下载 EN JSON数据
+2025-09-04 14:57:48,254 - INFO - 初始化 ./databases/EN_chat.db 跟踪表
+2025-09-04 14:57:48,255 - INFO - 数据库 ./databases/EN_chat.db 初始化成功
+2025-09-04 14:57:48,255 - INFO - 当前 ./databases/EN_chat.db 最后处理的消息ID: 0
+2025-09-04 14:57:48,255 - INFO - 发现 30 条新消息，正在导入到 ./databases/EN_chat.db...
+2025-09-04 14:57:48,256 - INFO - 成功向 ./databases/EN_chat.db 插入 30 条消息
+2025-09-04 14:57:48,257 - INFO - 更新 ./databases/EN_chat.db 最后处理ID为: 34191277
+2025-09-04 14:57:48,257 - INFO - 导入到 ./databases/EN_chat.db 完成
+2025-09-04 14:57:48,257 - INFO - EN_已保存
+2025-09-04 14:57:48,257 - INFO - 2025-09-04 14:57:48
+2025-09-04 14:57:50,288 - INFO - 成功下载 X JSON数据
+2025-09-04 14:57:50,292 - INFO - 初始化 ./databases/X_chat.db 跟踪表
+2025-09-04 14:57:50,293 - INFO - 数据库 ./databases/X_chat.db 初始化成功
+2025-09-04 14:57:50,293 - INFO - 当前 ./databases/X_chat.db 最后处理的消息ID: 0
+2025-09-04 14:57:50,293 - INFO - 发现 30 条新消息，正在导入到 ./databases/X_chat.db...
+2025-09-04 14:57:50,294 - INFO - 成功向 ./databases/X_chat.db 插入 30 条消息
+2025-09-04 14:57:50,295 - INFO - 更新 ./databases/X_chat.db 最后处理ID为: 34191302
+2025-09-04 14:57:50,295 - INFO - 导入到 ./databases/X_chat.db 完成
+2025-09-04 14:57:50,295 - INFO - X_已保存
+2025-09-04 14:57:50,295 - INFO - 2025-09-04 14:57:50
+2025-09-04 15:03:40,282 - INFO - 成功下载 ZH JSON数据
+2025-09-04 15:03:40,292 - INFO - 数据库 ./databases/ZH_chat.db 初始化成功
+2025-09-04 15:03:40,292 - INFO - 当前 ./databases/ZH_chat.db 最后处理的消息ID: 34191280
+2025-09-04 15:03:40,292 - INFO - 发现 1 条新消息，正在导入到 ./databases/ZH_chat.db...
+2025-09-04 15:03:40,293 - ERROR - 向 ./databases/ZH_chat.db 插入数据时出错: UNIQUE constraint failed: senders.id
+2025-09-04 15:03:40,294 - INFO - 导入到 ./databases/ZH_chat.db 完成
+2025-09-04 15:03:40,294 - INFO - ZH_已保存
+2025-09-04 15:03:40,294 - INFO - 2025-09-04 15:03:40
+2025-09-04 15:03:43,816 - INFO - 成功下载 EN JSON数据
+2025-09-04 15:03:43,823 - INFO - 数据库 ./databases/EN_chat.db 初始化成功
+2025-09-04 15:03:43,823 - INFO - 当前 ./databases/EN_chat.db 最后处理的消息ID: 34191277
+2025-09-04 15:03:43,823 - INFO - 没有发现新消息需要导入到 ./databases/EN_chat.db
+2025-09-04 15:03:43,823 - INFO - EN_已保存
+2025-09-04 15:03:43,824 - INFO - 2025-09-04 15:03:43
+2025-09-04 15:03:45,112 - INFO - 成功下载 X JSON数据
+2025-09-04 15:03:45,119 - INFO - 数据库 ./databases/X_chat.db 初始化成功
+2025-09-04 15:03:45,120 - INFO - 当前 ./databases/X_chat.db 最后处理的消息ID: 34191302
+2025-09-04 15:03:45,120 - INFO - 发现 5 条新消息，正在导入到 ./databases/X_chat.db...
+2025-09-04 15:03:45,123 - INFO - 成功向 ./databases/X_chat.db 插入 5 条消息
+2025-09-04 15:03:45,125 - INFO - 更新 ./databases/X_chat.db 最后处理ID为: 34191330
+2025-09-04 15:03:45,125 - INFO - 导入到 ./databases/X_chat.db 完成
+2025-09-04 15:03:45,125 - INFO - X_已保存
+2025-09-04 15:03:45,125 - INFO - 2025-09-04 15:03:45
